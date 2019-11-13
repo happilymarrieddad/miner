@@ -6,6 +6,7 @@ Miner
 3. Get banned
 
 ## If you want to contribute, please make a PR
+IN ORDER FOR THIS TO WORK RESOLUTION HAS TO BE (1402x798)
 
 ## Contribution needs
 1. Add a randomness to the algorithm
@@ -14,4 +15,4 @@ Miner
     - move items from 1 station to another
     - only mine some of the time
     - rat hunt
-
+3. Make it not dependent on the screen resolution
